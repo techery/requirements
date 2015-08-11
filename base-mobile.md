@@ -8,6 +8,7 @@
 * Network stack understanding;
 * Modularization of app logic, strict separation of UI and business modules;
 * Good English communication skills (reading, writing and speaking) are a must;
+* Experience with process frameworks (Scrum, Kanban)
 
 #Major plus
 * Applying alternative architecture approaches (MVP, MVVM);
