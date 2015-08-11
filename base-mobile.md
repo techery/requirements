@@ -8,8 +8,9 @@
 * Experience in application performance optimization;
 * Experience in creating complex custom views and animations; 
 * Network stack understanding;
-* Good English communication skills (reading, writing and speaking) are a must;
-* Experience with process frameworks (Scrum, Kanban)
+* Good English communication skills (reading, writing and speaking) are must;
+* Experience with process frameworks (Scrum, Kanban);
+* Experience with working in big team;
 
 #Major plus
 * Applying alternative architecture approaches (MVP, MVVM);
@@ -19,3 +20,4 @@
 * Experience in server side development;
 * Experience in development for other mobile platforms
 * Open-source contribution;
+* Experience in TDD;
